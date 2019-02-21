@@ -1,0 +1,10 @@
+@article{moreira2013tracking,
+  title={Tracking politics with {POWER}},
+  author={Moreira, Silvio and Batista, David S and Carvalho, Paula and Couto, Francisco M and Silva, Mario J},
+  journal={Program},
+  volume={47},
+  number={2},
+  pages={120--135},
+  year={2013},
+  publisher={Emerald Group Publishing Limited}
+  }

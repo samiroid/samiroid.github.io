@@ -1,0 +1,8 @@
+@inproceedings{moreira2011power,
+  title={{POWER}-{Politics} {Ontology} for {Web} {Entity} {Retrieval}},
+  author={Moreira, Silvio and Batista, David and Carvalho, Paula and Couto, Francisco M and Silva, M{\'a}rio J.},
+  booktitle={Advanced Information Systems Engineering Workshops},
+  pages={489--500}, 
+  year={2011},
+  organization={Springer}
+}

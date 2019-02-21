@@ -1,0 +1,12 @@
+@InProceedings{astudillo-EtAl:2015:ACL-IJCNLP,
+  author    = {Astudillo, Ram\'{o}n  and  Amir, Silvio  and  Ling, Wang  and  Silva, Mario  and  Trancoso, Isabel},
+  title     = {Learning Word Representations from Scarce and Noisy Data with Embedding Subspaces},
+  booktitle = {Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)},
+  series    = {ACL '15},
+  month     = {July},
+  year      = {2015},
+  address   = {Beijing, China},  
+  pages     = {1074--1084},
+  publisher = {Association for Computational Linguistics},
+  url      = {http://www.aclweb.org/anthology/P15-1104}
+}

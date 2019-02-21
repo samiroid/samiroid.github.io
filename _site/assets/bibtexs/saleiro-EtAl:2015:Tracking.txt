@@ -1,0 +1,9 @@
+@InProceedings{saleiro-EtAl:2015:Tracking,
+  author={P. Saleiro and S. Amir and M. Silva and C. Soares},
+booktitle={2015 IEEE International Conference on Computer and Information Technology; Ubiquitous Computing and Communications; Dependable, Autonomic and Secure Computing; Pervasive Intelligence and Computing},
+title={{POPmine}: Tracking Political Opinion on the Web},
+year={2015},
+volume={},
+number={},
+pages={1521-1526},
+doi={10.1109/CIT/IUCC/DASC/PICOM.2015.228}}
