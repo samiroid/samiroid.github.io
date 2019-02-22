@@ -2,6 +2,7 @@
 permalink: /projects/
 layout: single
 author_profile: true
+title : silvio
 ---
 
 # Ongoing Projects
