@@ -2,9 +2,8 @@
 permalink: /talks/
 layout: single
 author_profile: true
+title: Invited Talks
 ---
-
-# Invited Talks
 
 >## 2017
 
