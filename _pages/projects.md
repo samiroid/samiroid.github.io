@@ -5,7 +5,7 @@ author_profile: true
 title : silvio
 ---
 
-# Ongoing Projects
+# Ongoing 
 
 >## Californians Talk HIV: Using Social Media to Get Steps Ahead
 
