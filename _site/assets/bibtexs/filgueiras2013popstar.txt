@@ -1,7 +1,0 @@
-@inproceedings{filgueiras2013popstar,
-  title={{POPSTAR} at {RepLab} 2013: Polarity for reputation classification},
-  author={Filgueiras, Joao and Amir, Silvio},
-  booktitle={CLEF 2013 Evaluation Labs and Workshop Online Working Notes},
-  year={2013},
-  location={Valencia, Spain}
-}

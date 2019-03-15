@@ -64,12 +64,14 @@ We built a political opinion mining for social media to measure the popularity a
 
 See the project's (archived) [webpage](https://arquivo.pt/wayback/20161102032746/http://dmir.inesc-id.pt/project/POPSTAR) for more details and the respective [scoop.it](https://www.scoop.it/t/popstar-news) for some of the related press coverage. 
 
+<img src="../assets/images/popstar_team.png" alt="drawing" width="420px"/>
+
 >## REACTION <img src="../assets/images/REACTION-logo.png" alt="drawing" width="40px"/>
 **Retrieval, Extraction and Aggregation Computing Technology for Integrating and Organizing News**
 
 Interdisciplinary R&D project, funded by the [CoLab, UT Austin - Portugal](http://utaustinportugal.org/about), involving researchers from the [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/){:target="_blank"}, [INESC-ID Lisboa](https://www.inesc-id.pt/){:target="_blank"}, [Faculdade de Engenharia da Universidade do Porto](https://sigarra.up.pt/feup/en/web_page.Inicial){:target="_blank"}, [Centro de Investigação Media e Jornalismo](https://novaresearch.unl.pt/en/organisations/cimj-centro-de-investiga%C3%A7%C3%A3o-media-e-jornalismo){:target="_blank"}, [University of Texas at Austin](https://www.ischool.utexas.edu/){:target="_blank"} and news media partners such as [Sapo](http://labs.sapo.pt/) and [Público](https://www.publico.pt/) to create tools and methodologies to support advanced computational newsrooms.
 
-We developed novel data-driven tools for journalists to gain new insights into complex topics and uncover new stories, e.g. an article about [political campaign financing](https://acervo.publico.pt/autarquicas2013/financiamento-das-campanhas){:target="_blank"} that was distinguished with a [cyber journalism award](https://obciber.wordpress.com/premios/){:target="_blank"}. We also developed various tools for journalists to gauge public reactions to newsworthy events from social media in real-time.
+We developed novel data-driven tools for journalists to [track media personalities](https://www.publico.pt/2013/11/28/tecnologia/noticia/sapo-lanca-maquina-do-tempo-para-viajar-em-25-anos-de-noticias-1614356) over time, and gain new insights into complex topics --- e.g. our tools were used in an article about [political campaign financing](https://acervo.publico.pt/autarquicas2013/financiamento-das-campanhas){:target="_blank"} that won a [cyber journalism award](https://obciber.wordpress.com/premios/){:target="_blank"}. We also developed various tools for journalists to gauge [public reactions](https://www.publico.pt/2013/03/28/tecnologia/noticia/gostar-culpar-e-mentira-foram-as-palavras-mais-repetidas-nos-tweets-com-mencoes-a-socrates-1589478) to newsworthy events from social media in [real-time](https://www.publico.pt/2012/06/13/desporto/noticia/twitteuro-mede-popularidade-dos-jogadores-e-equipas-do-euro-1550176).
 
 <img src="../assets/images/twitometro.png" alt="drawing" width="500px"/>
 
@@ -78,6 +80,8 @@ We developed novel data-driven tools for journalists to gain new insights into c
 <!-- <img src="../assets/images/twitteuro.png" alt="drawing" width="400px"/> -->
 
 See the project's (archived) [webpage](https://arquivo.pt/wayback/20161102032746/http://dmir.inesc-id.pt/project/Reaction) for more details and the respective [scoop.it](https://www.scoop.it/t/reaction-news) for some of the related press coverage. 
+
+<img src="../assets/images/reaction_team1.png" alt="drawing" width="500px"/>
 
 <!-- [Media Buzz](https://www.scoop.it/t/reaction-news)
 
