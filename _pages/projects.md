@@ -7,19 +7,13 @@ title : Ongoing Projects
 
 >## Californians Talk HIV: Using Social Media to Get Steps Ahead
 
-Joint project with [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"} and the [University of California San Diego](https://medschool.ucsd.edu/Pages/default.aspx){:target="_blank"} aiming to investigate methods to extract actionable intelligence from social media platforms to support timely, evidence-based decision making and help public health leaders and advocates stay one step ahead of California’s HIV epidemic.
-
-<!-- **Specific Aims**
-1. Develop a comprehensive, continuously updated database of public HIV-related social media posts (e.g. Twitter, Reddit, Google, etc.) including platforms targeting at-risk group (e.g. sex forums), filtered to include California residents
-2. Develop  automated, scalable social media content analysis tools to discover the HIV related health needs of Californians. 
-3. Develop tools to infer the demographic characteristics of social media account holders to contextualize the HIV related needs of specific demographic groups in California -->
+Joint project of the [University of California San Diego](https://medschool.ucsd.edu/Pages/default.aspx){:target="_blank"} and the [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}, aiming to develop methods to extract actionable intelligence from social media platforms to support timely, evidence-based decision making and help public health leaders and advocates stay one step ahead of California’s HIV epidemic.
 
 <img src="../assets/images/plots.png" alt="drawing" width="500px"/>
 
-
 >## Increasing Citizen Participation in E-Rulemaking by Harnessing Social Media
 
-Joint project with [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"} and the [University of California San Diego](https://medschool.ucsd.edu/Pages/default.aspx){:target="_blank"} aiming to increase public participation in the regulatory process by crowdsourcing and extracting actionable feedback regarding government regulations from public social media comments. 
+Joint project of the [University of California San Diego](https://medschool.ucsd.edu/Pages/default.aspx){:target="_blank"} and the [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}, aiming to increase public participation in the regulatory process by crowdsourcing and extracting actionable feedback regarding government regulations from public social media comments. 
 
 <img src="../assets/images/sample_comment.jpg" alt="drawing" width="500px"/>
 
@@ -71,7 +65,7 @@ See the project's (archived) [webpage](https://arquivo.pt/wayback/20161102032746
 
 Interdisciplinary R&D project, funded by the [CoLab, UT Austin - Portugal](http://utaustinportugal.org/about), involving researchers from the [Faculdade de Ciências da Universidade de Lisboa](https://ciencias.ulisboa.pt/){:target="_blank"}, [INESC-ID Lisboa](https://www.inesc-id.pt/){:target="_blank"}, [Faculdade de Engenharia da Universidade do Porto](https://sigarra.up.pt/feup/en/web_page.Inicial){:target="_blank"}, [Centro de Investigação Media e Jornalismo](https://novaresearch.unl.pt/en/organisations/cimj-centro-de-investiga%C3%A7%C3%A3o-media-e-jornalismo){:target="_blank"}, [University of Texas at Austin](https://www.ischool.utexas.edu/){:target="_blank"} and news media partners such as [Sapo](http://labs.sapo.pt/) and [Público](https://www.publico.pt/) to create tools and methodologies to support advanced computational newsrooms.
 
-We developed novel data-driven tools for journalists to [track media personalities](https://www.publico.pt/2013/11/28/tecnologia/noticia/sapo-lanca-maquina-do-tempo-para-viajar-em-25-anos-de-noticias-1614356) over time, and gain new insights into complex topics --- e.g. our tools were used in an article about [political campaign financing](https://acervo.publico.pt/autarquicas2013/financiamento-das-campanhas){:target="_blank"} that won a [cyber journalism award](https://obciber.wordpress.com/premios/){:target="_blank"}. We also developed various tools for journalists to gauge [public reactions](https://www.publico.pt/2013/03/28/tecnologia/noticia/gostar-culpar-e-mentira-foram-as-palavras-mais-repetidas-nos-tweets-com-mencoes-a-socrates-1589478) to newsworthy events from social media in [real-time](https://www.publico.pt/2012/06/13/desporto/noticia/twitteuro-mede-popularidade-dos-jogadores-e-equipas-do-euro-1550176).
+We developed novel data-driven tools for journalists to gain new insights into complex topics --- e.g. our tools were used in an article about [political campaign financing](https://acervo.publico.pt/autarquicas2013/financiamento-das-campanhas){:target="_blank"} that won a [cyber journalism award](https://obciber.wordpress.com/premios/){:target="_blank"}. We also developed various tools for journalists to [track media personalities](https://www.publico.pt/2013/11/28/tecnologia/noticia/sapo-lanca-maquina-do-tempo-para-viajar-em-25-anos-de-noticias-1614356) over time, and gauge [public reactions](https://www.publico.pt/2013/03/28/tecnologia/noticia/gostar-culpar-e-mentira-foram-as-palavras-mais-repetidas-nos-tweets-com-mencoes-a-socrates-1589478) to newsworthy events from social media in [real-time](https://www.publico.pt/2012/06/13/desporto/noticia/twitteuro-mede-popularidade-dos-jogadores-e-equipas-do-euro-1550176).
 
 <img src="../assets/images/twitometro.png" alt="drawing" width="500px"/>
 
