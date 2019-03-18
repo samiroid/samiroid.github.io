@@ -5,6 +5,11 @@ author_profile: true
 title : Publications
 ---
 
+>## 2018
+
+Amir, S. (2018). <span style="color:#78b3b7">***Agile Social Media Analysis with Neural Networks***</span>. Doctoral Dissertation, Instituto Superior Técnico da Universidade de Lisboa.
+<a href="assets/amir_thesis.pdf" target="_blank" title="pdf"><img src="../assets/images/paper.png" title="pdf" width="20px"/></a>
+
 >## 2017
 
 Amir, S., Coppersmith, G., Carvalho, P., Silva, M. J., and Wallace, B. C. (2017). <span style="color:#78b3b7">***Quantifying mental health from social media with neural user embeddings***</span>. Journal of Machine Learning Research, W&C Track.
@@ -17,7 +22,7 @@ Amir, S., Wallace, B. C., Lyu, H., Carvalho, P., and Silva, M. J. (2016). <span 
 <a href="http://www.aclweb.org/anthology/K16-1017" target="_blank" title="pdf"><img src="../assets/images/paper.png" title="pdf" width="20px"/></a>
 <a href="../assets/bibtexs/amir2016modelling.txt" target="_blank"><img src="../assets/images/bibtex.png" title="bibtex" width="20px"/></a>
 
-**press**
+**press coverage**
 
 [New Scientist](https://www.newscientist.com/article/2100007-ai-reads-your-tweets-and-spots-when-youre-being-sarcastic/) | [Digital Trends](https://www.digitaltrends.com/cool-tech/twitter-sarcasm-det-ection-tweets/) | [Tech Crunch](https://techcrunch.com/2016/08/04/this-neural-network-tries-to-tell-if-youre-being-sarcastic-online/) | [Sky News](https://news.sky.com/story/oh-great-now-computers-can-spot-sarcasm-10523711) | [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-3725458/Oh-really-Scientists-create-neural-network-spot-sarcasm-Twitter.html) | [Sapo](https://sapo24.blogs.sapo.pt/eles-querem-tornar-o-sarcasmo-online-113129) |
 [Tech Xplore](https://techxplore.com/news/2016-08-deep-neural-network-approach-sarcasm.html) | [Improbable Research](https://www.improbable.com/2016/08/11/a-sarcastic-tweet-detection-algorithm/) | [Evening Standard](https://www.standard.co.uk/news/sarcasm-detector-invented-for-social-media-yeah-right-a3313121.html) | [Euclid](https://euclid.ee.duth.gr/news/ai-reads-your-tweets-and-spots-when-youre-being-sarcastic-acm-technews/) | [Vocativ](https://www.vocativ.com/354921/the-endless-quest-to-understand-sarcasm-on-the-internet/index.html) |
