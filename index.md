@@ -23,9 +23,6 @@ I developed Twitter sentiment analysis models for journalists to gauge [public r
 
 I developed [*User2Vec*](https://github.com/samiroid/usr2vec){:target="_blank"}, a tool to infer neural embeddings (i.e. learned vector representations) of users, given their social media posts. The resulting user vectors capture latent personal traits, which can provide context to model highly subjective and ambiguous content, e.g. I used them in a deep neural network for [sarcasm detection](https://techcrunch.com/2016/08/04/this-neural-network-tries-to-tell-if-youre-being-sarcastic-online/) on Twitter.
 
-
-
-
 <!-- <span style="color:#78b3b7">**Public Health**</span> -->
 **Public Health**
 
@@ -44,6 +41,12 @@ Currently, I am investigating how to harness these methods to improve clinical a
 Social Media Analysis | Natural Language Processing | Machine Learning | 
 Neural Networks | Deep Learning | Low-resource Learning |
 Computational Social Sciences | Mental-health Applications | Digital Epidemiology 
+
+## Previous Positions
+- Research Assistant <span style="color:#78b3b7">@</span> [Northeastern NLP lab](https://nlp.khoury.northeastern.edu/){:target="_blank"}
+- Visiting Researcher <span style="color:#78b3b7">@</span> [UTA iSchool](https://www.ischool.utexas.edu/){:target="_blank"}
+- Research Assistant <span style="color:#78b3b7">@</span> [INESC-ID Lisboa](http://goodanalytics.io/){:target="_blank"}
+- Junior Research Assistant <span style="color:#78b3b7">@</span> [LaSIGE](https://ciencias.ulisboa.pt/en/lasige-large-scale-informatics-systems-laboratory){:target="_blank"}
 
 ## Industry 
 

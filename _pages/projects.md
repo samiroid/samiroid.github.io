@@ -7,22 +7,15 @@ title : Ongoing Projects
 
 >## Californians Talk HIV: Using Social Media to Get Steps Ahead
 
-Joint project of the [University of California San Diego](https://medschool.ucsd.edu/Pages/default.aspx){:target="_blank"} and the [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}, aiming to develop methods to extract actionable intelligence from social media platforms to support timely, evidence-based decision making and help public health leaders and advocates stay one step ahead of California’s HIV epidemic.
+Multidisciplinary project with public health and computer science researchers from the [University of California San Diego](https://medschool.ucsd.edu/Pages/default.aspx){:target="_blank"} and the [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}, aiming to develop methods to extract actionable intelligence from social media platforms to support timely, evidence-based decision making and help public health leaders and advocates stay one step ahead of California’s HIV epidemic.
 
 <img src="../assets/images/plots.png" alt="drawing" width="500px"/>
 
 >## Increasing Citizen Participation in E-Rulemaking by Harnessing Social Media
 
-Joint project of the [University of California San Diego](https://medschool.ucsd.edu/Pages/default.aspx){:target="_blank"} and the [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}, aiming to increase public participation in the regulatory process by crowdsourcing and extracting actionable feedback regarding government regulations from public social media comments. 
+Multidisciplinary project with public health and computer science researchers from [University of California San Diego](https://medschool.ucsd.edu/Pages/default.aspx){:target="_blank"} and the [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}, aiming to increase public participation in the regulatory process by crowdsourcing and extracting actionable feedback regarding government regulations from public social media comments. 
 
 <img src="../assets/images/sample_comment.jpg" alt="drawing" width="500px"/>
-
-<!-- The goal is to develop a process that can funnel millions of public comments into a clear feedback mechanism to regulators. This process can effectively increase rulemaking participation by passively including millions of citizens and providing unsolicited comments throughout the rulemaking process. As a case-study, we will consider the FDA's recently expanded regulation of tobacco products. -->
-
-<!-- **Specific Aims**
-1. Create a comprehensive, constantly updated corpus of public Electronic Nicotine Delivery Systems (ENDS) related comments from Twitter, Reddit and other social media platforms.
-2. Automatically identify and characterize social media comments relevant to ENDS’ regulations.
-3. Conduct a comparative analysis of relevant comments on regulations.gov with comments derived from our social media analysis to identify areas of overlap and unique insights arising from social media. -->
 
 # Past Projects
 
