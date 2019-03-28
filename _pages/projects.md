@@ -24,7 +24,7 @@ Multidisciplinary project with public health and computer science researchers fr
 
 Joint research project funded by FCT Portugal with researchers from [INESC-ID Lisboa](https://www.inesc-id.pt/){:target="_blank"} and the [University of Texas at Austin](https://www.ischool.utexas.edu/){:target="_blank"}, on the automatic analysis of sarcasm and irony in social media.
 
-We developed novel sarcasm detection methods, including [CUE-CNN](https://github.com/samiroid/CUE-CNN){:target="_blank"} --- a deep neural network that automatically learns and exploits representations for both the author and contents of a post to make contexualized inferences over highly ambiguous content.
+We developed novel sarcasm detection methods, including [CUE-CNN](https://github.com/samiroid/CUE-CNN){:target="_blank"} --- a deep neural network that automatically learns and exploits representations for both the author and contents of a post to make contextualized inferences over highly ambiguous content.
 
 <img src="../assets/images/sarcasm_tweet.png" alt="drawing" width="350px"/>
 
