@@ -10,7 +10,7 @@ I am a postdoctoral fellow working with Professor <a href='https://www.cs.jhu.ed
 
 <!-- <a href='' target="_blank"> M </a> -->
 
-My research involves developing NLP and machine learning models for inferences over social media --- I am particularly interested in how to build these models in low-resource settings. I am also interested in using machine learning and data science for applications with a positive personal, social or humanitarian impact. 
+My research involves developing NLP and machine learning models for inferences over subjective social media --- I am particularly interested in how to build these models in low-resource settings. I am also interested in using machine learning and data science for applications with a positive personal, social or humanitarian impact. 
 
 My work has been driven by real-world problems with an emphasis on applications for public health research and the social sciences. 
 
@@ -21,7 +21,7 @@ I developed Twitter sentiment analysis models for journalists to gauge [public r
 
 <img src="assets/images/popstar_sentiment.png" alt="drawing" width="600px"/>
 
-I developed [*User2Vec*](https://github.com/samiroid/usr2vec){:target="_blank"}, a tool to infer neural embeddings (i.e. learned vector representations) of users, given their social media posts. The resulting user vectors capture latent personal traits, which can provide context to model highly subjective and ambiguous content, e.g. I used them in a deep neural network for [sarcasm detection](https://techcrunch.com/2016/08/04/this-neural-network-tries-to-tell-if-youre-being-sarcastic-online/) on Twitter.
+I developed [*User2Vec*](https://github.com/samiroid/usr2vec){:target="_blank"}, a tool to infer neural embeddings (i.e. learned vector representations) of users, given their social media posts. The resulting user vectors capture latent personal traits, which can provide context to model highly subjective and ambiguous content, e.g. I used them to build deep neural networks for [sarcasm detection](https://techcrunch.com/2016/08/04/this-neural-network-tries-to-tell-if-youre-being-sarcastic-online/) on Twitter.
 
 <!-- <span style="color:#78b3b7">**Public Health**</span> -->
 **Public Health**
@@ -32,9 +32,11 @@ I also used *User2Vec* embeddings to build models that estimate the likelihood o
 
 <!-- Currently, I am applying these models to build digital epidemiology systems to support real-time and longitudinal large-scale public health studies from social media data with strong emphasis on behavioral health. My hope is that this work will foster a better understanding of behavioral disorders and how they affect different segments of the population, thereby improving clinical practices; enable more responsive and deliberate public health interventions; and ultimately bring about a platform for [precision public health](https://blogs.cdc.gov/genomics/2018/05/15/precision-public-health-2/){:target="_blank"}. -->
 
-Currently, I am investigating how to harness these methods to improve clinical and public health practices. One research thread that I am actively pursuing, is how to build digital epidemiology systems to support large-scale, longitudinal and real-time studies over social media. Specifically, I am building systems to investigate behavioral disorders and how they affect different segments of the population, particularly underpresented groups. More broadly, I hope this research contributes to increase our knowledge of complex and poorly understood illnesses and ultimately bring about a platform for [precision public health](https://blogs.cdc.gov/genomics/2018/05/15/precision-public-health-2/){:target="_blank"}, thereby enabling more responsive and deliberate health interventions. 
+Currently, I am investigating how to harness these methods to improve clinical and public health practices. One research thread that I am actively pursuing, is how to build digital epidemiology systems to support large-scale, longitudinal and real-time studies over social media. Specifically, I am building systems to investigate behavioral disorders and how they affect different segments of the population, particularly underpresented groups. 
 
 <img src="assets/images/depression.png" alt="drawing" width="600px"/>
+
+More broadly, I hope this research contributes to increase our knowledge of complex and poorly understood illnesses and ultimately bring about a platform for [precision public health](https://blogs.cdc.gov/genomics/2018/05/15/precision-public-health-2/){:target="_blank"}, thereby enabling more responsive and deliberate health interventions. 
 
 **Keywords**
 
