@@ -45,10 +45,10 @@ Neural Networks | Deep Learning | Low-resource Learning |
 Computational Social Sciences | Mental-health Applications | Digital Epidemiology 
 
 ## Previous Positions
-- Research Assistant <span style="color:#78b3b7">@</span> [Northeastern University NLP lab](https://nlp.khoury.northeastern.edu/){:target="_blank"}
-- Visiting Researcher <span style="color:#78b3b7">@</span> [UTA iSchool](https://www.ischool.utexas.edu/){:target="_blank"}
-- Research Assistant <span style="color:#78b3b7">@</span> [INESC-ID Lisboa](https://www.inesc-id.pt/){:target="_blank"}
-- Junior Research Assistant <span style="color:#78b3b7">@</span> [LaSIGE](https://ciencias.ulisboa.pt/en/lasige-large-scale-informatics-systems-laboratory){:target="_blank"}
+- Research Assistant <span style="color:#78b3b7">@</span> [Northeastern University, CCIS Machine Learning Lab](https://nlp.khoury.northeastern.edu/){:target="_blank"}
+- Visiting Researcher <span style="color:#78b3b7">@</span> [University of Texas at Austin Texas, iSchool](https://www.ischool.utexas.edu/){:target="_blank"}
+- Research Assistant <span style="color:#78b3b7">@</span> [Instituto Superior Técnico, INESC-ID Lisboa](https://www.inesc-id.pt/){:target="_blank"}
+- Junior Research Assistant <span style="color:#78b3b7">@</span> [Faculdade de Ciências de Lisboa, LaSIGE](https://ciencias.ulisboa.pt/en/lasige-large-scale-informatics-systems-laboratory){:target="_blank"}
 
 ## Industry 
 
