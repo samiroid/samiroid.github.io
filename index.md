@@ -3,14 +3,13 @@ layout: single
 author_profile: true
 ---
 
-I am a postdoctoral fellow working with Professor <a href='https://www.cs.jhu.edu/~mdredze/' target="_blank">Mark Dredze</a> at the <a href='https://www.clsp.jhu.edu/' target="_blank">Center for Language and Speech Processing</a> at <a href='https://www.jhu.edu/' target="_blank">Johns Hopkins University</a>.
+I am a postdoctoral fellow at the <a href='https://www.clsp.jhu.edu/people/postdocs/' target="_blank">Center for Language and Speech Processing</a> at <a href='https://www.jhu.edu/' target="_blank">Johns Hopkins University</a> currently working with Professor <a href='https://www.cs.jhu.edu/~mdredze/' target="_blank">Mark Dredze</a> 
 
 ## Research 
 
-
 <!-- <a href='' target="_blank"> M </a> -->
 
-My research involves developing NLP and machine learning models for inferences over subjective social media --- I am particularly interested in how to build these models in low-resource settings. I am also interested in using machine learning and data science for applications with a positive personal, social or humanitarian impact. 
+My research involves developing NLP and machine learning models for inferences over subjective social media. I am particularly interested in methods to build these models in low-resource settings. I am also interested in using machine learning and data science for applications with a positive personal, social or humanitarian impact. 
 
 My work has been driven by real-world problems with an emphasis on applications for public health research and the social sciences. 
 
