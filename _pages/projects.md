@@ -7,7 +7,7 @@ title : Ongoing Projects
 
 >## Californians Talk HIV: Using Social Media to Get Steps Ahead
 
-Multidisciplinary project with public health and computer science researchers from the [University of California San Diego](https://medschool.ucsd.edu/Pages/default.aspx){:target="_blank"} and the [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}, aiming to develop methods to extract actionable intelligence from social media platforms to support timely, evidence-based decision making and help public health leaders and advocates stay one step ahead of California’s HIV epidemic.
+Multidisciplinary project with public health and computer science researchers from the [University of California San Diego](https://medschool.ucsd.edu/Pages/default.aspx){:target="_blank"} and the [Johns Hopkins University](https://www.jhu.edu/){:target="_blank"}. The goal of the project is to develop automated methods to extract actionable intelligence from social media platforms to support timely, evidence-based decision making and help public health leaders and advocates stay one step ahead of California’s HIV epidemic.
 
 <img src="../assets/images/plots.png" alt="drawing" width="500px"/>
 
