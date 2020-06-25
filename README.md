@@ -1,1 +1,0 @@
-# samiroid.github.io
