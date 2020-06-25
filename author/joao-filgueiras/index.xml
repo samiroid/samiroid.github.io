@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>João Filgueiras | Silvio Amir</title>
+    <link>/author/joao-filgueiras/</link>
+      <atom:link href="/author/joao-filgueiras/index.xml" rel="self" type="application/rss+xml" />
+    <description>João Filgueiras</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>João Filgueiras</title>
+      <link>/author/joao-filgueiras/</link>
+    </image>
+    
+    <item>
+      <title>TUGAS: Exploiting unlabelled data for Twitter sentiment analysis</title>
+      <link>/publication/amir-et-al-2014-sem-eval/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-et-al-2014-sem-eval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REACTION: A naive machine learning approach for sentiment classification</title>
+      <link>/publication/moreira-et-al-2013-sem-eval-2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/moreira-et-al-2013-sem-eval-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POPSTAR at replab 2013: Polarity for reputation classification</title>
+      <link>/publication/filgueiras-2013-popstar/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/filgueiras-2013-popstar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

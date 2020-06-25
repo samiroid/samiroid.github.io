@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mário J Silva | Silvio Amir</title>
+    <link>/author/mario-j-silva/</link>
+      <atom:link href="/author/mario-j-silva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mário J Silva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mário J Silva</title>
+      <link>/author/mario-j-silva/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying Mental Health from Social Media with Neural User Embeddings</title>
+      <link>/publication/amir-2017-mlhc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-2017-mlhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INESC-ID at SemEval-2016 Task 4-A: Reducing the Problem of Out-of-Embedding Words</title>
+      <link>/publication/amir-2016-inesc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-2016-inesc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking politics with POWER</title>
+      <link>/publication/moreira-2013-tracking/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/moreira-2013-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POWER-Politics Ontology for Web Entity Retrieval</title>
+      <link>/publication/moreira-2011-power/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/moreira-2011-power/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

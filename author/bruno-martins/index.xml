@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruno Martins | Silvio Amir</title>
+    <link>/author/bruno-martins/</link>
+      <atom:link href="/author/bruno-martins/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bruno Martins</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bruno Martins</title>
+      <link>/author/bruno-martins/</link>
+    </image>
+    
+    <item>
+      <title>Situational Irony in Farcical News Headlines</title>
+      <link>/publication/carvalho-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/carvalho-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INESC-ID: A Regression Model for Large Scale Twitter Sentiment Lexicon Induction</title>
+      <link>/publication/amir-et-al-2015-sem-eval/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-et-al-2015-sem-eval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INESC-ID: Sentiment Analysis without Hand-Coded Features or Linguistic Resources using Embedding Subspaces</title>
+      <link>/publication/astudillo-et-al-2015-sem-eval/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/astudillo-et-al-2015-sem-eval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TUGAS: Exploiting unlabelled data for Twitter sentiment analysis</title>
+      <link>/publication/amir-et-al-2014-sem-eval/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-et-al-2014-sem-eval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REACTION: A naive machine learning approach for sentiment classification</title>
+      <link>/publication/moreira-et-al-2013-sem-eval-2013/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/moreira-et-al-2013-sem-eval-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

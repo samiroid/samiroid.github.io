@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silvio Amir</title>
+    <link>/author/silvio-amir/</link>
+      <atom:link href="/author/silvio-amir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Silvio Amir</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Silvio Amir</title>
+      <link>/author/silvio-amir/</link>
+    </image>
+    
+    <item>
+      <title>Aligning Public Feedback To Requests For Comments On Regulations.gov</title>
+      <link>/publication/wadhwa-2020-lo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wadhwa-2020-lo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Situational Irony in Farcical News Headlines</title>
+      <link>/publication/carvalho-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/carvalho-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Health Surveillance over Social Media with Digital Cohorts</title>
+      <link>/publication/amir-2019-mental/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-2019-mental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying Mental Health from Social Media with Neural User Embeddings</title>
+      <link>/publication/amir-2017-mlhc/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-2017-mlhc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INESC-ID at SemEval-2016 Task 4-A: Reducing the Problem of Out-of-Embedding Words</title>
+      <link>/publication/amir-2016-inesc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-2016-inesc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling context with user embeddings for sarcasm detection in social media</title>
+      <link>/publication/amir-2016-modelling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-2016-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation</title>
+      <link>/publication/ling-et-al-2015-emnlp-2/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ling-et-al-2015-emnlp-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not All Contexts Are Created Equal: Better Word Representations with Variable Attention</title>
+      <link>/publication/ling-et-al-2015-emnlp-1/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ling-et-al-2015-emnlp-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Word Representations from Scarce and Noisy Data with Embedding Subspaces</title>
+      <link>/publication/astudillo-et-al-2015-acl-ijcnlp/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/astudillo-et-al-2015-acl-ijcnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INESC-ID: A Regression Model for Large Scale Twitter Sentiment Lexicon Induction</title>
+      <link>/publication/amir-et-al-2015-sem-eval/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-et-al-2015-sem-eval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INESC-ID: Sentiment Analysis without Hand-Coded Features or Linguistic Resources using Embedding Subspaces</title>
+      <link>/publication/astudillo-et-al-2015-sem-eval/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/astudillo-et-al-2015-sem-eval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TUGAS: Exploiting unlabelled data for Twitter sentiment analysis</title>
+      <link>/publication/amir-et-al-2014-sem-eval/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-et-al-2014-sem-eval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POPSTAR at replab 2013: Polarity for reputation classification</title>
+      <link>/publication/filgueiras-2013-popstar/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/filgueiras-2013-popstar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

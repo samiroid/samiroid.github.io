@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Dredze | Silvio Amir</title>
+    <link>/author/mark-dredze/</link>
+      <atom:link href="/author/mark-dredze/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Dredze</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mark Dredze</title>
+      <link>/author/mark-dredze/</link>
+    </image>
+    
+    <item>
+      <title>Aligning Public Feedback To Requests For Comments On Regulations.gov</title>
+      <link>/publication/wadhwa-2020-lo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/wadhwa-2020-lo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mental Health Surveillance over Social Media with Digital Cohorts</title>
+      <link>/publication/amir-2019-mental/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/amir-2019-mental/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

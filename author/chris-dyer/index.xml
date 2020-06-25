@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Dyer | Silvio Amir</title>
+    <link>/author/chris-dyer/</link>
+      <atom:link href="/author/chris-dyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Dyer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chris Dyer</title>
+      <link>/author/chris-dyer/</link>
+    </image>
+    
+    <item>
+      <title>Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation</title>
+      <link>/publication/ling-et-al-2015-emnlp-2/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ling-et-al-2015-emnlp-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not All Contexts Are Created Equal: Better Word Representations with Variable Attention</title>
+      <link>/publication/ling-et-al-2015-emnlp-1/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/ling-et-al-2015-emnlp-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
