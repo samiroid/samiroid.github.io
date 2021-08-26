@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
 Sitemap: https://samiroid.github.io/sitemap.xml
